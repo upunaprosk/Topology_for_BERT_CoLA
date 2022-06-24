@@ -4,5 +4,5 @@ Conducted using [SHapley Additive exPlanations](https://github.com/slundberg/sha
 
 Setting: fine-tuned En-BERT + $\textit{TDA}$ features.
 
-- feature_space_analysis_pipeline - pipeline declaration and hyperparameters search;
-- feature_space_analysis_shapley - Principal Components  interpretation.
+- feature_space_analysis_pipeline - Pipeline declaration and hyperparameters search;
+- feature_space_analysis_shapley - Principal components interpretation.
